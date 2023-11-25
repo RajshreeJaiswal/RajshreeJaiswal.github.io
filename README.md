@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working on **my personal development**
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **React.js node.js and Database**
 
 - 👨‍💻 All of my projects are available at [Updated Soon](Updated Soon)
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS and Java**
 
-- 📫 How to reach me **thisiskmv@gmail.com**
+- 📫 How to reach me **rajshreejaiswal0907@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-2HpCSCQC5zxqolM5PbS7qBz9sTtRjCy/view](https://drive.google.com/file/d/1-2HpCSCQC5zxqolM5PbS7qBz9sTtRjCy/view)
+<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1-2HpCSCQC5zxqolM5PbS7qBz9sTtRjCy/view](https://drive.google.com/file/d/1-2HpCSCQC5zxqolM5PbS7qBz9sTtRjCy/view) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,7 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RajshreeJaiswal&show_icons=true&locale=en&layout=compact" alt="RajshreeJaiswal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RajshreeJaiswal26&show_icons=true&locale=en" alt="RajshreeJaiswal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RajshreeJaiswal&show_icons=true&locale=en" alt="RajshreeJaiswal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RajshreeJaiswal&" alt="RajshreeJaiswal" /></p>
 
@@ -64,11 +64,11 @@ You can click the Preview link to take a look at your changes
 
 <!--- - 💬 Ask me about Web Development --->
 
-- 📫 How to reach me jainshruti0512@gmail.com
+<!-- - 📫 How to reach me jainshruti0512@gmail.com
 
 <!--- - 📄 Know about my experiences &nbsp; <a href="https://drive.google.com/file/d/1V6YjI9ekR3lIPcNDnVtJZhJCa14Nfmer/view?usp=sharing" target="blank"><img align="center" src="https://img.shields.io/badge/-Resume-orange?style=for-the-badge" alt="" /></a> --->
 
-## Languages and Tools:
+<!-- ## Languages and Tools:
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" > 
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> 
@@ -78,18 +78,18 @@ You can click the Preview link to take a look at your changes
     <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="40" height="40"/> 
   </a> 
   &nbsp;
-  <br />
+  <br /> -->
 <!---  <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> 
   </a> --->
-  &nbsp;
+  <!-- &nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" > 
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/> 
   </a> 
-  &nbsp;
+  &nbsp; -->
  <!--- <a href="https://getbootstrap.com" target="_blank" > 
     <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="bootstrap" width="40" height="40"/>      </a> --->
-  &nbsp;
+  <!-- &nbsp;
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> 
   </a> 
@@ -115,7 +115,7 @@ You can click the Preview link to take a look at your changes
 <!-- <!---  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> --->
-  &nbsp;
+  <!-- &nbsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
@@ -125,9 +125,9 @@ You can click the Preview link to take a look at your changes
 
 ## Connect with me:
 <p align="left">
-<a href="" target="https://www.linkedin.com/in/shruti-jain"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="" /></a>
-<!---
-  <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="" /></a>
+<a href="" target="https://www.linkedin.com/in/shruti-jain"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="" /></a> -->
+<!--- -->
+  <!-- <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="" /></a>
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1d9bf0?style=for-the-badge&logo=Twitter&logoColor=white" alt="" /></a>
 <a href="https://t.me/reactjssolution" target="blank"><img align="center" src="https://img.shields.io/badge/-Telegram-3390ec?style=for-the-badge&logo=Telegram&logoColor=white" alt="" /></a> --->
 </p>
@@ -152,7 +152,7 @@ You can click the Preview link to take a look at your changes
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Shruti&show_icons=true&locale=en&layout=compact"     alt="stats-3"
 </p>
-
+ -->
 
 <!---
 - 👋 Hi, I’m @Shrutij512
@@ -160,4 +160,4 @@ You can click the Preview link to take a look at your changes
 - 🌱 I’m currently learning ...
 - 💞 I’m looking to collaborate on ...
 - 📫 How to reach me ...
----> -->
+---> --> -->
