@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 import "./About.css";
 import RajshreeJaiswal from "../../media/RajshreeJaiswal.png";
 import LinearDeterminate from "../MiniComponent/ProgressComp";
-import KAMAL_VERMA from "../../media/KAMAL_VERMA.pdf";
+import RAJSHREE_JAISWAL from "../../media/RAJSHREE_JAISWAL.pdf";
 
 const About = () => {
   const [checked1, setChecked1] = useState(false);
@@ -25,7 +25,7 @@ const About = () => {
 
   const openResume = () => {
     window.open(
-      "",//resume link
+      "https://drive.google.com/file/d/1qmjoShn6aJQzo_GSBUW_e5M-BJDEMKY7/view?usp=sharing",//resume link
       "_blank"
     );
   };
@@ -89,7 +89,7 @@ const About = () => {
           >
             <Button
               variant="outlined"
-              // href={resumeAdd}//resume
+               href={RAJSHREE_JAISWAL}//resume
               download="Rajshree-Jaiswal-Resume"
               id="resume-button-2"
               sx={{

@@ -15,7 +15,7 @@ import LinearDeterminate from "./ProgressComp";
 import "./Navbar.css";
 import { details } from "../../details";
 import Scroll from "react-scroll-to-element";
-import KAMAL_VERMA from "../../media/KAMAL_VERMA.pdf";
+import RAJSHREE_JAISWAL from "../../media/RAJSHREE_JAISWAL.pdf";
 import MenuOutlinedIcon from "@mui/icons-material/MenuOutlined";
 import { Link } from "react-scroll";
 
@@ -142,10 +142,10 @@ const Navbar = ({ scollHandle }) => {
         })}
 
         <Box className="nav-link resume" onClick={openResume}>
-          <a href={KAMAL_VERMA} download="Rajshree-Jaiswal-Resume">
+          <a href={RAJSHREE_JAISWAL} download="Rajshree-Jaiswal-Resume">
             <Button
               variant="outlined"
-              download={KAMAL_VERMA}
+              download={RAJSHREE_JAISWAL}
               id="resume-button-1"
               sx={{
                 border: "1px solid #008F11",
