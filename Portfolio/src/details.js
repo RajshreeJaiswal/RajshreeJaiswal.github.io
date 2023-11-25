@@ -36,7 +36,7 @@ export const details = {
     "workDiv",
     "contactDiv",
   ],
-  linkedInLink: "www.linkedin.com/in/rajshree-jaiswal",
+  linkedInLink: "https://www.linkedin.com/in/rajshree-jaiswal/",
   githubLink: "https://github.com/RajshreeJaiswal",
   instagram: "8303416224",
   mailLink: "mailto:rajshreejaiswal0907@gmail.com",
